@@ -222,7 +222,9 @@ capabilities of timer-based traffic systems. Detailed discussions and extended s
 substantiate these conclusions, aligning with the objectives of smart city initiatives. 
 
 
+# PPT 
 
+https://www.canva.com/design/DAGZvf56rbc/XS72yFjtw0iyeSeF_5tE0A/edit?utm_content=DAGZvf56rbc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 
